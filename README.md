@@ -2,4 +2,4 @@
 <br>
 my first git repo
 <br>
-author-jaskaran sigh
+author-jaskaran singh
